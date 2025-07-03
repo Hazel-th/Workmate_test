@@ -19,7 +19,6 @@ Workmate/
 │   ├── Filter_operation.py  
 │   └── Aggregate_Operation.py  
 ├── Utils.py  
-
 ├── test/  
 │   └── test_main.py  
 └── data/  
