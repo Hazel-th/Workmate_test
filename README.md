@@ -12,17 +12,17 @@
 ---
 ## Структура проекта
 
-Workmate/
-├── main.py
-├── operations/
-│   ├── Base_operation.py
-│   ├── Filter_operation.py
-│   └── Aggregate_Operation.py
-├── Utils.py
-├── test/
-│   └── test_main.py
-└── data/
-    └── products.csv
+Workmate/ /n
+├── main.py /n
+├── operations/ /n
+│   ├── Base_operation.py /n
+│   ├── Filter_operation.py /n
+│   └── Aggregate_Operation.py /n
+├── Utils.py /n
+├── test/ /n
+│   └── test_main.py /n
+└── data/ /n
+    └── products.csv /n
 ---
 
 ## Примеры исрользования 
